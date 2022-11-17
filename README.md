@@ -1,3 +1,4 @@
+[![MasterHead](https://www.totalphase.com/media/blog/2022/11/960x0.jpg)](https://sukrit-09.io)
 <h1 align="center">Hi 👋, I'm Sukrit Das</h1>
 <h3 align="center">Machine Designing & AIML Enthusiast from India</h3>
 
