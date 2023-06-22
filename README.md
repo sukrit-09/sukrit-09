@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Image Processing, Machine Learning.**
 
-- 🤝 My Current Position is **Machine Designer at IEM_IEDC**
+- 🤝 My Current Recognition is **CAD Designer**
 
-- 🔭 I’m currently working with **Institution Innovation Council- IEM**
+- 🔭 I’m currently working with **IEM**
 
 - 💬 Ask me about **Machine Designing, C, Python, Image Processing.**
 
